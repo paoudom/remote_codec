@@ -1,0 +1,20 @@
+﻿Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	<Other>
+Control Surface Model	MIDI Multichannel Control Keyboard
+Map Version	1.4.2
+
+
+Scope	Propellerheads	Master Keyboard
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Keyboard		Keyboard
+Map	Pitch Bend Wheel		Pitch Bend
+Map	Mod Wheel		Mod Wheel
+Map	Damper Pedal		Damper Pedal
+Map	Expression		Expression
+Map	Channel Pressure		Channel Pressure
+Map	Breath		Breath
+//<	20110328
+
+//<	20110628
+//<	20110711

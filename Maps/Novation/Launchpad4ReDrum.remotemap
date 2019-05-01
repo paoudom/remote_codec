@@ -1,0 +1,95 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Novation
+Control Surface Model	LaunchpadS
+Map Version	1.1.0
+
+// LaunchPad S ReDrum Mapping by DJSem
+
+// Originally by SonicDetours: http://sonicdetours.com/2014/05/09/remote-codec-for-launchpad-mini/
+// Tweaked by TONAL AXiS: http://tonalaxis.wordpress.com/
+// Pads-as-Keyboard + ReDrum & Kong backlight feedback by Koshdukai: http://KoshdukaiMusicReason.BlogSpot.com/
+// And even further tweaked for single ReDrum Usage  and changed the layout: DJSem
+
+Scope	Propellerheads	Master Keyboard
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Keyboard		Keyboard
+
+Scope	Propellerheads	Reason Document
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Bars Display		Bar Position
+Map	Button A		Play
+Map	Button B		Stop
+Map	Button C		Loop On/Off
+Map	Button D 		Record
+// Map	Button E		not used
+Map	Button G		Target Previous Track
+Map	Button H		Target Next Track
+
+Scope	Propellerheads	Redrum Drum Computer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Button F		Playing Step
+
+Map	Button 1-1		Selected Drum Toggle Step 1
+Map	Button 1-2		Selected Drum Toggle Step 2
+Map	Button 1-3		Selected Drum Toggle Step 3
+Map	Button 1-4		Selected Drum Toggle Step 4
+Map	Button 1-5		Selected Drum Toggle Step 5
+Map	Button 1-6		Selected Drum Toggle Step 6
+Map	Button 1-7		Selected Drum Toggle Step 7
+Map	Button 1-8		Selected Drum Toggle Step 8
+
+Map	Button 2-1		Selected Drum Toggle Step 9
+Map	Button 2-2		Selected Drum Toggle Step 10
+Map	Button 2-3		Selected Drum Toggle Step 11
+Map	Button 2-4		Selected Drum Toggle Step 12
+Map	Button 2-5		Selected Drum Toggle Step 13
+Map	Button 2-6		Selected Drum Toggle Step 14
+Map	Button 2-7		Selected Drum Toggle Step 15
+Map	Button 2-8		Selected Drum Toggle Step 16
+
+Map	Button 3-1		Select Drum 1
+Map	Button 3-2		Select Drum 2
+Map	Button 3-3		Select Drum 3
+Map	Button 3-4		Select Drum 4
+Map	Button 3-5		Select Drum 5
+Map	Button 3-6		Select Drum 6
+Map	Button 3-7		Select Drum 7
+Map	Button 3-8		Select Drum 8
+
+Map	Button 4-1		Drum 1 Mute
+Map	Button 4-2		Drum 2 Mute
+Map	Button 4-3		Drum 3 Mute
+Map	Button 4-4		Drum 4 Mute
+Map	Button 4-5		Drum 5 Mute
+Map	Button 4-6		Drum 6 Mute
+Map	Button 4-7		Drum 7 Mute
+Map	Button 4-8		Drum 8 Mute
+
+// Row 5 not used, free for additional custom mapping
+
+Map	Button 6-1		Pattern 1
+Map	Button 6-2		Pattern 2
+Map	Button 6-3		Pattern 3
+Map	Button 6-4		Pattern 4
+Map	Button 6-5		Pattern 5
+Map	Button 6-6		Pattern 6
+Map	Button 6-7		Pattern 7
+Map	Button 6-8		Pattern 8
+
+// Buttons 7-2 / 7-3 and 7-4 not used
+Map	Button 7-1		Run
+Map	Button 7-5		Bank A
+Map	Button 7-6		Bank B
+Map	Button 7-7		Bank C
+Map	Button 7-8		Bank D
+
+Map	Button 8-1		Channel 1 Play
+Map	Button 8-2		Channel 2 Play
+Map	Button 8-3		Channel 3 Play
+Map	Button 8-4		Channel 4 Play
+Map	Button 8-5		Channel 5 Play
+Map	Button 8-6		Channel 6 Play
+Map	Button 8-7		Channel 7 Play
+Map	Button 8-8		Channel 8 Play

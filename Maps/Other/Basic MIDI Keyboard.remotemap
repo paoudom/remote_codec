@@ -1,0 +1,248 @@
+﻿Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	<Other>
+Control Surface Model	MIDI Keyboard (No Controls)
+Map Version	1.4.3
+
+
+Scope	Propellerheads	Master Keyboard
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Keyboard		Keyboard
+Map	Pitch Bend Wheel		Pitch Bend
+Map	Mod Wheel		Mod Wheel
+Map	Damper Pedal		Damper Pedal
+Map	Expression		Expression
+Map	Channel Pressure		Channel Pressure
+Map	Breath		Breath
+
+
+Scope	Propellerheads	Combinator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	Mixer 14:2
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+Scope	Propellerheads	Line Mixer 6:2
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+Scope	Propellerheads	SubTractor Analog Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+Scope	Propellerheads	THOR Polysonic Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+Scope	Propellerheads	Malstrom Graintable Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+Scope	Propellerheads	NN19 Digital Sampler
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+Scope	Propellerheads	NN-XT Advanced Sampler
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Volume
+
+
+Scope	Propellerheads	Dr.REX Loop Player
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+Scope	Propellerheads	Redrum Drum Computer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+Scope	Propellerheads	Kong Drum Designer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+Scope	Propellerheads	RV7000 Advanced Reverb
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	Scream 4 Distortion
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+Scope	Propellerheads	BV512 Digital Vocoder
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	MClass Equalizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	MClass Stereo Imager
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	MClass Compressor
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Output Gain
+
+
+Scope	Propellerheads	MClass Maximizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Output Gain
+
+
+Scope	Propellerheads	RV-7 Digital Reverb
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	DDL-1 Digital Delay Line
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	D-11 Foldback Distortion
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	ECF-42 Envelope Controlled Filter
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	CF-101 Chorus/Flanger
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	PH-90 Phaser
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	UN-16 Unison
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	COMP-01 Compressor/Limiter
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	PEQ-2 Two Band Parametric EQ
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	Matrix Pattern Sequencer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	RPG-8 Monophonic Arpeggiator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	ReGroove Mixer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	ID8 Instrument Device
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Volume
+
+
+Scope	Propellerheads	Line 6 Guitar Amp
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Volume
+
+
+Scope	Propellerheads	Line 6 Bass Amp
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Volume
+
+
+Scope	Propellerheads	Neptune Pitch Adjuster
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Pitched Signal Level
+
+
+//<	20110628
+Scope	Propellerheads	Reason Master Section
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+Scope	Propellerheads	Record Master Section
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+//<	20110628
+Scope	Propellerheads	Reason Main Mixer Channel
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Level
+
+
+Scope	Propellerheads	Record Main Mixer Channel
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Level
+
+
+
+//<	20110319
+Scope	Propellerheads	Reason Document
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+// The following will only be available if no device has Master Keyboard Input
+
+// (e.g. MKI is set to the Transport Track)
+
+Map	Data Entry Fader		Click Level
+
+
+//<	20110628
+Scope	Propellerheads	Record Document
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+// The following will only be available if no device has Master Keyboard Input
+
+// (e.g. MKI is set to the Transport Track)
+
+Map	Data Entry Fader		Click Level
+
+
+
+
+//<	20110319
+Scope	Propellerheads	Reason Essentials Master Section
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Master Level
+
+
+
+//<	20110319
+Scope	Propellerheads	Reason Essentials Main Mixer Channel
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Data Entry Fader		Level
+//<	20110328
+
+
+//<	20110628
+Scope	Propellerheads	Alligator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Damper Pedal		Pattern Enable
+Map	Data Entry Fader		Master Volume
+
+
+Scope	Propellerheads	Pulveriser
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Damper Pedal		Follower Trig
+Map	Data Entry Fader		Volume
+
+
+Scope	Propellerheads	The Echo
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Damper Pedal		Trig
+Map	Data Entry Fader		Dry/Wet Balance
+//<	20110711

@@ -1,0 +1,26 @@
+-- LaunchPad S ReDrum Mapping by DJSem
+
+-- Originally by SonicDetours: http://sonicdetours.com/2014/05/09/remote-codec-for-launchpad-mini/
+-- Tweaked by TONAL AXiS: http://tonalaxis.wordpress.com/
+-- Pads-as-Keyboard + ReDrum & Kong backlight feedback by Koshdukai: http://KoshdukaiMusicReason.BlogSpot.com/
+-- And even further tweaked and changed the layout: DJSem
+
+
+version={1,1,0}
+function remote_supported_control_surfaces()
+	local surfaces ={
+		{
+			manufacturer="Novation", model="LaunchpadS",
+			source="Launchpad4ReDrum.lua",
+-- /< 20141002
+			picture="Launchpad Mini custom.png",
+-- /< 20141002
+			in_ports = { {description="In Port"} },
+			out_ports = { {description="Out Port"} },
+-- /< 20141002
+			has_keyboard=true
+-- /< 20141002
+		},
+	}
+	return surfaces
+end

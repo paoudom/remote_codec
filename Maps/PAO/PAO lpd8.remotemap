@@ -1,0 +1,1631 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	<Other>
+Control Surface Model	MIDI Control Surface
+Map Version	1.4.9
+
+
+Scope	Propellerheads	Master Keyboard
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+
+Scope	Propellerheads	Combinator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Rotary1-1		Rotary 1
+Rotary1-2 		Rotary 2
+Rotary1-3		Rotary 3
+Rotary1-4		Rotary 4
+Rotary1-5		Button 1
+Rotary1-6		Button 2
+Rotary1-7		Button 3
+Rotary1-8		Button 4
+
+
+Scope	Propellerheads	Mixer 14:2
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Master Level
+Map	CC 08		Channel 1 Level
+Map	CC 09		Channel 2 Level
+Map	CC 10		Channel 3 Level
+Map	CC 12		Channel 4 Level
+Map	CC 13		Channel 5 Level
+Map	CC 14		Channel 6 Level
+Map	CC 15		Channel 7 Level
+Map	CC 16		Channel 8 Level
+Map	CC 17		Channel 9 Level
+Map	CC 18		Channel 10 Level
+Map	CC 19		Channel 11 Level
+Map	CC 20		Channel 12 Level
+Map	CC 21		Channel 13 Level
+Map	CC 22		Channel 14 Level
+Map	CC 23		Channel 1 Pan
+Map	CC 24		Channel 2 Pan
+Map	CC 25		Channel 3 Pan
+Map	CC 26		Channel 4 Pan
+Map	CC 27		Channel 5 Pan
+Map	CC 28		Channel 6 Pan
+Map	CC 29		Channel 7 Pan
+Map	CC 30		Channel 8 Pan
+Map	CC 31		Channel 9 Pan
+Map	CC 33		Channel 10 Pan
+Map	CC 34		Channel 11 Pan
+Map	CC 35		Channel 12 Pan
+Map	CC 36		Channel 13 Pan
+Map	CC 37		Channel 14 Pan
+Map	CC 39		Channel 1 Aux 1 Send
+Map	CC 40		Channel 2 Aux 1 Send
+Map	CC 41		Channel 3 Aux 1 Send
+Map	CC 42		Channel 4 Aux 1 Send
+Map	CC 43		Channel 5 Aux 1 Send
+Map	CC 44		Channel 6 Aux 1 Send
+Map	CC 45		Channel 7 Aux 1 Send
+Map	CC 46		Channel 8 Aux 1 Send
+Map	CC 47		Channel 9 Aux 1 Send
+Map	CC 48		Channel 10 Aux 1 Send
+Map	CC 49		Channel 11 Aux 1 Send
+Map	CC 50		Channel 12 Aux 1 Send
+Map	CC 51		Channel 13 Aux 1 Send
+Map	CC 52		Channel 14 Aux 1 Send
+Map	CC 53		Channel 1 Aux 2 Send
+Map	CC 54		Channel 2 Aux 2 Send
+Map	CC 55		Channel 3 Aux 2 Send
+Map	CC 56		Channel 4 Aux 2 Send
+Map	CC 57		Channel 5 Aux 2 Send
+Map	CC 58		Channel 6 Aux 2 Send
+Map	CC 59		Channel 7 Aux 2 Send
+Map	CC 60		Channel 8 Aux 2 Send
+Map	CC 61		Channel 9 Aux 2 Send
+Map	CC 62		Channel 10 Aux 2 Send
+Map	CC 63		Channel 11 Aux 2 Send
+Map	CC 65		Channel 12 Aux 2 Send
+Map	CC 66		Channel 13 Aux 2 Send
+Map	CC 67		Channel 14 Aux 2 Send
+Map	CC 68		Channel 1 Bass Amount
+Map	CC 69		Channel 2 Bass Amount
+Map	CC 70		Channel 3 Bass Amount
+Map	CC 71		Channel 4 Bass Amount
+Map	CC 72		Channel 5 Bass Amount
+Map	CC 73		Channel 6 Bass Amount
+Map	CC 74		Channel 7 Bass Amount
+Map	CC 75		Channel 8 Bass Amount
+Map	CC 76		Channel 9 Bass Amount
+Map	CC 77		Channel 10 Bass Amount
+Map	CC 78		Channel 11 Bass Amount
+Map	CC 79		Channel 12 Bass Amount
+Map	CC 80		Channel 13 Bass Amount
+Map	CC 81		Channel 14 Bass Amount
+Map	CC 82		Channel 1 Treble Amount
+Map	CC 83		Channel 2 Treble Amount
+Map	CC 84		Channel 3 Treble Amount
+Map	CC 85		Channel 4 Treble Amount
+Map	CC 86		Channel 5 Treble Amount
+Map	CC 87		Channel 6 Treble Amount
+Map	CC 88		Channel 7 Treble Amount
+Map	CC 89		Channel 8 Treble Amount
+Map	CC 90		Channel 9 Treble Amount
+Map	CC 91		Channel 10 Treble Amount
+Map	CC 92		Channel 11 Treble Amount
+Map	CC 93		Channel 12 Treble Amount
+Map	CC 94		Channel 13 Treble Amount
+Map	CC 95		Channel 14 Treble Amount
+Map	CC 102		Channel 1 Aux 3 Send
+Map	CC 103		Channel 2 Aux 3 Send
+Map	CC 104		Channel 3 Aux 3 Send
+Map	CC 105		Channel 4 Aux 3 Send
+Map	CC 106		Channel 5 Aux 3 Send
+Map	CC 107		Channel 6 Aux 3 Send
+Map	CC 108		Channel 7 Aux 3 Send
+Map	CC 109		Channel 8 Aux 3 Send
+Map	CC 110		Channel 9 Aux 3 Send
+Map	CC 111		Channel 10 Aux 3 Send
+Map	CC 112		Channel 11 Aux 3 Send
+Map	CC 113		Channel 12 Aux 3 Send
+Map	CC 114		Channel 13 Aux 3 Send
+Map	CC 115		Channel 14 Aux 3 Send
+Map	CC 116		Aux 1 Return Level
+Map	CC 117		Aux 2 Return Level
+Map	CC 118		Aux 3 Return Level
+Map	CC 119		Aux 4 Return Level
+
+
+Scope	Propellerheads	Line Mixer 6:2
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Master Level
+Map	CC 08		Channel 1 Level
+Map	CC 09		Channel 2 Level
+Map	CC 10		Channel 3 Level
+Map	CC 12		Channel 4 Level
+Map	CC 13		Channel 5 Level
+Map	CC 14		Channel 6 Level
+Map	CC 23		Channel 1 Pan
+Map	CC 24		Channel 2 Pan
+Map	CC 25		Channel 3 Pan
+Map	CC 26		Channel 4 Pan
+Map	CC 27		Channel 5 Pan
+Map	CC 28		Channel 6 Pan
+Map	CC 39		Channel 1 Aux Send
+Map	CC 40		Channel 2 Aux Send
+Map	CC 41		Channel 3 Aux Send
+Map	CC 42		Channel 4 Aux Send
+Map	CC 43		Channel 5 Aux Send
+Map	CC 44		Channel 6 Aux Send
+Map	CC 116		Aux Return Level
+
+
+Scope	Propellerheads	SubTractor Analog Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 05		Portamento
+Map	CC 07		Master Level
+Map	CC 09		Amp Env Decay
+Map	CC 12		Amp Env Sustain
+Map	CC 14		Filter Env Attack
+Map	CC 15		Filter Env Decay
+Map	CC 16		Filter Env Sustain
+Map	CC 17		Filter Env Release
+Map	CC 18		Filter Env Amount
+Map	CC 19		Filter Env Invert
+Map	CC 20		Osc1 Wave
+Map	CC 21		Osc1 Octave
+Map	CC 22		Osc1 Semitone
+Map	CC 23		Osc1 Fine Tune
+Map	CC 25		Osc1 Kbd Track
+Map	CC 26		LFO1 Rate
+Map	CC 27		LFO1 Amount
+Map	CC 28		LFO1 Wave
+Map	CC 29		LFO1 Dest
+Map	CC 30		LFO Sync Enable
+Map	CC 33		Filter Freq Mod Wheel Amount
+Map	CC 34		Filter Res Mod Wheel Amount
+Map	CC 35		LFO1 Mod Wheel Amount
+Map	CC 36		FM Mod Wheel Amount
+Map	CC 37		Phase Diff Mod Wheel Amount
+Map	CC 39		Pitch Bend Range
+Map	CC 40		Filter Freq Ext Mod
+Map	CC 41		LFO1 Ext Mod
+Map	CC 42		Amp Ext Mod
+Map	CC 43		Ext Mod Select
+Map	CC 44		FM Ext Mod
+Map	CC 45		Amp Vel Amount
+Map	CC 46		Filter Env Vel Amount
+Map	CC 47		Filter Decay Vel Amount
+Map	CC 48		Amp Attack Vel Amount
+Map	CC 49		FM Vel Amount
+Map	CC 50		Mod Env Vel Amount
+Map	CC 51		Phase Vel Amount
+Map	CC 52		Filter2 Freq Vel Amount
+Map	CC 53		Mix Vel Amount
+Map	CC 68		Key Mode
+Map	CC 71		Filter Res
+Map	CC 72		Amp Env Release
+Map	CC 73		Amp Env Attack
+Map	CC 74		Filter Freq
+Map	CC 75		Filter2 On/Off
+Map	CC 76		Filter Type
+Map	CC 77		Filter Kbd Track
+Map	CC 78		Filter2 Res
+Map	CC 79		Filter2 Freq
+Map	CC 80		Filter Link Freq On/Off
+Map	CC 81		Noise On/Off
+Map	CC 82		Noise Level
+Map	CC 83		Noise Decay
+Map	CC 84		Noise Color
+Map	CC 85		Mod Env Gain
+Map	CC 86		Mod Env Invert
+Map	CC 87		Mod Env Attack
+Map	CC 88		Mod Env Decay
+Map	CC 89		Mod Env Sustain
+Map	CC 90		Mod Env Release
+Map	CC 91		Mod Env Dest
+Map	CC 92		Osc1 Phase Mode
+Map	CC 93		Osc1 Phase Diff
+Map	CC 94		Osc2 On/Off
+Map	CC 95		Osc2 Wave
+Map	CC 102		Osc2 Octave
+Map	CC 103		Osc2 Semitone
+Map	CC 104		Osc2 Fine Tune
+Map	CC 105		Osc2 Phase Mode
+Map	CC 106		Osc2 Phase Diff
+Map	CC 107		Osc Mix
+Map	CC 108		FM Amount
+Map	CC 109		Ring Mod
+Map	CC 110		LFO2 Rate
+Map	CC 111		LFO2 Amount
+Map	CC 112		LFO2 Delay
+Map	CC 113		LFO2 Dest
+Map	CC 114		LFO2 Kbd Track
+Map	CC 115		Osc2 Kbd Track
+
+
+Scope	Propellerheads	THOR Polysonic Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 05		Portamento
+Map	CC 07		Master Level
+Map	CC 09		Amp Env Decay
+Map	CC 12		Amp Env Sustain
+Map	CC 14		Filter Env Attack
+Map	CC 15		Filter Env Decay
+Map	CC 16		Filter Env Sustain
+Map	CC 17		Filter Env Release
+Map	CC 18		Filter 1 Env Amount
+Map	CC 19		Filter 1 Env Invert
+Map	CC 20		Osc 1 Type
+Map	CC 21		Osc 1 Oct
+Map	CC 22		Osc 1 Semi
+Map	CC 23		Osc 1 Tune
+Map	CC 25		Osc 1 Kbd
+Map	CC 26		LFO 1 Rate
+Map	CC 27		LFO 1 KbdFollow
+Map	CC 28		LFO 1 Waveform
+Map	CC 29		LFO 1 Delay
+Map	CC 30		LFO 1 Tempo Sync
+Map	CC 33		Filter 1 Velocity
+Map	CC 34		Filter 2 Velocity
+Map	CC 35		Filter 2 Env Amount
+Map	CC 36		Filter 3 Velocity
+Map	CC 37		Filter 3 Global Env Amount
+Map	CC 39		Pitch Bend Range
+Map	CC 40		Button 1
+Map	CC 41		Button 2
+Map	CC 42		Rotary 1
+Map	CC 43		Rotary 2
+Map	CC 44		Shaper Drive
+Map	CC 45		Amplifier Velocity
+Map	CC 46		Osc 1 To Filter 1 Enable
+Map	CC 47		Osc 2 To Filter 1 Enable
+Map	CC 48		Osc 3 To Filter 1 Enable
+Map	CC 49		Osc 1 To Filter 2 Enable
+Map	CC 50		Osc 2 To Filter 2 Enable
+Map	CC 51		Osc 3 To Filter 2 Enable
+Map	CC 52		Filter 1 Type
+Map	CC 53		Filter 1 Drive
+Map	CC 68		Key Mode
+Map	CC 71		Filter 1 Res
+Map	CC 72		Amp Env Release
+Map	CC 73		Amp Env Attack
+Map	CC 74		Filter 1 Freq
+Map	CC 75		Filter 2 Drive
+Map	CC 76		Filter 2 Type
+Map	CC 77		Filter 1 Kbd
+Map	CC 78		Filter 2 Res
+Map	CC 79		Filter 2 Freq
+Map	CC 80		Filter 3 Type
+Map	CC 81		Filter 3 Freq
+Map	CC 82		Filter 3 Res
+Map	CC 83		Filter 3 Drive
+Map	CC 84		Filter 3 Kbd
+Map	CC 85		Mod Env Gate Trig On
+Map	CC 86		Mod Env Delay
+Map	CC 87		Mod Env Attack
+Map	CC 88		Mod Env Decay
+Map	CC 89		Mod Env Release
+Map	CC 90		Mod Env Tempo Sync
+Map	CC 91		Mod Env Loop
+Map	CC 92		Osc 1 Mod
+Map	CC 93		Osc 2 Mod
+Map	CC 94		Osc 3 Mod
+Map	CC 95		Osc 2 Type
+Map	CC 102		Osc 2 Oct
+Map	CC 103		Osc 2 Semi
+Map	CC 104		Osc 2 Tune
+Map	CC 105		Osc 3 Type
+Map	CC 106		Osc 3 Oct
+Map	CC 107		Osc 3 Semi
+Map	CC 108		Osc 3 Tune
+Map	CC 109		Osc 3 Kbd
+Map	CC 110		LFO 2 Rate
+Map	CC 111		LFO 2 Waveform
+Map	CC 112		LFO 2 Delay
+Map	CC 113		LFO 2 Tempo Sync
+Map	CC 114		LFO 2 Key Sync
+Map	CC 115		Osc 2 Kbd
+
+
+Scope	Propellerheads	Malstrom Graintable Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 05		Portamento
+Map	CC 07		Master Level
+Map	CC 09		Oscillator B Decay
+Map	CC 12		Oscillator B Sustain
+Map	CC 14		Filter Env Attack
+Map	CC 15		Filter Env Decay
+Map	CC 16		Filter Env Sustain
+Map	CC 17		Filter Env Release
+Map	CC 18		Filter Env Amount
+Map	CC 19		Filter Env Invert
+Map	CC 21		Oscillator B Octave
+Map	CC 22		Oscillator B Semi
+Map	CC 23		Oscillator B Cent
+Map	CC 25		Modulator A On/Off
+Map	CC 26		Modulator A Rate
+Map	CC 27		Modulator A To Pitch
+Map	CC 28		Modulator A Curve
+Map	CC 29		Modulator A One Shot
+Map	CC 30		Modulator A Target
+Map	CC 31		Modulator A To Index
+Map	CC 33		Mod Wheel To Filter
+Map	CC 34		Mod Wheel To Index
+Map	CC 35		Mod Wheel To Modulator
+Map	CC 36		Mod Wheel Target
+Map	CC 37		Mod Wheel To Shift
+Map	CC 39		Pitch Bend Range
+Map	CC 40		Modulator A To Shift
+Map	CC 41		Oscillator B On/Off
+Map	CC 42		Oscillator B Index
+Map	CC 43		Oscillator B Motion
+Map	CC 44		Oscillator B Shift
+Map	CC 46		Velocity To Filter Env
+Map	CC 47		Velocity Target
+Map	CC 48		Velocity To Attack
+Map	CC 49		Velocity To Level B
+Map	CC 50		Velocity To Level A
+Map	CC 51		Velocity To Shift
+Map	CC 52		Velocity To Modulator
+Map	CC 53		Oscillator B Gain
+Map	CC 54		Filter A On/Off
+Map	CC 55		Filter A Mode
+Map	CC 56		Shaper On/Off
+Map	CC 57		Shaper Mode
+Map	CC 58		Shaper Amount
+Map	CC 59		Route Oscillator B To Filter B
+Map	CC 60		Route Oscillator A To Filter B
+Map	CC 61		Route Oscillator A To Shaper
+Map	CC 62		Route Filter B To Shaper
+Map	CC 68		Legato On/Off
+Map	CC 69		Modulator A Sync
+Map	CC 70		Modulator B Sync
+Map	CC 71		Filter B Resonance
+Map	CC 72		Oscillator B Release
+Map	CC 73		Oscillator B Attack
+Map	CC 74		Filter B Freq
+Map	CC 75		Filter B On/Off
+Map	CC 76		Filter B Mode
+Map	CC 77		Filter B Kbd Track
+Map	CC 78		Filter A Resonance
+Map	CC 79		Filter A Freq
+Map	CC 80		Filter A Env
+Map	CC 81		Filter A Kbd Track
+Map	CC 82		Filter B Env
+Map	CC 86		Oscillator A Shift
+Map	CC 87		Oscillator A Attack
+Map	CC 88		Oscillator A Decay
+Map	CC 89		Oscillator A Sustain
+Map	CC 90		Oscillator A Release
+Map	CC 91		Oscillator A Gain
+Map	CC 92		Oscillator A Motion
+Map	CC 93		Oscillator A Index
+Map	CC 95		Oscillator A On/Off
+Map	CC 102		Oscillator A Octave
+Map	CC 103		Oscillator A Semi
+Map	CC 104		Oscillator A Cent
+Map	CC 105		Spread Amount
+Map	CC 110		Modulator B Rate
+Map	CC 111		Modulator B To Level
+Map	CC 112		Modulator B To Filter
+Map	CC 113		Modulator B To Modulator A
+Map	CC 114		Modulator B On/Off
+Map	CC 115		Modulator B Curve
+Map	CC 116		Modulator B One Shot
+Map	CC 117		Modulator B Target
+Map	CC 118		Modulator B To Motion
+
+
+Scope	Propellerheads	NN19 Digital Sampler
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 05		Portamento
+Map	CC 07		Master Level
+Map	CC 09		Amp Env Decay
+Map	CC 12		Amp Env Sustain
+Map	CC 14		Filter Env Attack
+Map	CC 15		Filter Env Decay
+Map	CC 16		Filter Env Sustain
+Map	CC 17		Filter Env Release
+Map	CC 18		Filter Env Amount
+Map	CC 19		Filter Env Invert
+Map	CC 20		Sample Start
+Map	CC 21		Osc Octave
+Map	CC 22		Osc Semitone
+Map	CC 23		Osc Fine Tune
+Map	CC 24		Osc Env Amount
+Map	CC 25		Osc Kbd Track
+Map	CC 26		LFO Rate
+Map	CC 27		LFO Amount
+Map	CC 28		LFO Wave
+Map	CC 29		LFO Dest
+Map	CC 30		LFO Sync Enable
+Map	CC 33		Filter Freq Mod Wheel Amount
+Map	CC 34		Filter Res Mod Wheel Amount
+Map	CC 35		Filter Decay Mod Wheel Amount
+Map	CC 36		Amp Mod Wheel Amount
+Map	CC 37		LFO Mod Wheel Amount
+Map	CC 39		Pitch Bend Range
+Map	CC 40		Filter Freq Ext Mod
+Map	CC 41		LFO Ext Mod
+Map	CC 42		Amp Ext Mod
+Map	CC 43		Ext Mod Select
+Map	CC 45		Amp Vel Amount
+Map	CC 46		Filter Env Vel Amount
+Map	CC 47		Filter Decay Vel Amount
+Map	CC 48		Amp Attack Vel Amount
+Map	CC 49		Sample Start Vel Amount
+Map	CC 55		Solo Sample
+Map	CC 56		Spread Mode
+Map	CC 57		Stereo Spread
+Map	CC 68		Key Mode
+Map	CC 71		Filter Res
+Map	CC 72		Amp Env Release
+Map	CC 73		Amp Env Attack
+Map	CC 74		Filter Freq
+Map	CC 75		Filter On/Off
+Map	CC 76		Filter Mode
+Map	CC 77		Filter Kbd Track
+
+
+Scope	Propellerheads	NN-XT Advanced Sampler
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Master Volume
+Map	CC 09		Amp Env Decay
+Map	CC 15		Mod Env Decay
+Map	CC 71		Filter Res
+Map	CC 72		Amp Env Release
+Map	CC 73		Amp Env Attack
+Map	CC 74		Filter Freq
+
+
+Scope	Propellerheads	Dr.REX Loop Player
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Master Level
+Map	CC 09		Amp Env Decay
+Map	CC 12		Amp Env Sustain
+Map	CC 14		Filter Env Attack
+Map	CC 15		Filter Env Decay
+Map	CC 16		Filter Env Sustain
+Map	CC 17		Filter Env Release
+Map	CC 18		Filter Env Amount
+Map	CC 21		Osc Octave
+Map	CC 22		Transpose
+Map	CC 23		Osc Fine Tune
+Map	CC 24		Osc Env Amount
+Map	CC 26		LFO1 Rate
+Map	CC 27		LFO1 Amount
+Map	CC 28		LFO1 Wave
+Map	CC 29		LFO1 Dest
+Map	CC 30		LFO Sync Enable
+Map	CC 33		Filter Freq Mod Wheel Amount
+Map	CC 34		Filter Res Mod Wheel Amount
+Map	CC 35		Filter Decay Mod Wheel Amount
+Map	CC 36		Amp Vel Amount
+Map	CC 39		Pitch Bend Range
+Map	CC 46		Filter Env Vel Amount
+Map	CC 47		Filter Decay Vel Amount
+Map	CC 71		Filter Res
+Map	CC 72		Amp Env Release
+Map	CC 73		Amp Env Attack
+Map	CC 74		Filter Freq
+Map	CC 75		Filter On/Off
+Map	CC 76		Filter Mode
+Map	CC 41		Loop Level
+Map	CC 51		Loop Transpose
+
+
+
+Scope	Propellerheads	Redrum Drum Computer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 03		Selected Pattern
+Map	CC 05		Flam Amount
+Map	CC 07		Master Level
+Map	CC 08		Drum 1 Level
+Map	CC 09		Drum 2 Level
+Map	CC 10		Drum 3 Level
+Map	CC 12		Drum 4 Level
+Map	CC 13		Drum 5 Level
+Map	CC 14		Drum 6 Level
+Map	CC 15		Drum 7 Level
+Map	CC 16		Drum 8 Level
+Map	CC 17		Drum 9 Level
+Map	CC 18		Drum 10 Level
+Map	CC 19		Drum 1 Pan
+Map	CC 20		Drum 2 Pan
+Map	CC 21		Drum 3 Pan
+Map	CC 22		Drum 4 Pan
+Map	CC 23		Drum 5 Pan
+Map	CC 24		Drum 6 Pan
+Map	CC 25		Drum 7 Pan
+Map	CC 26		Drum 8 Pan
+Map	CC 27		Drum 9 Pan
+Map	CC 28		Drum 10 Pan
+Map	CC 29		Drum 1 Send 1 Amount
+Map	CC 30		Drum 2 Send 1 Amount
+Map	CC 31		Drum 3 Send 1 Amount
+Map	CC 33		Drum 4 Send 1 Amount
+Map	CC 34		Drum 5 Send 1 Amount
+Map	CC 35		Drum 6 Send 1 Amount
+Map	CC 36		Drum 7 Send 1 Amount
+Map	CC 37		Drum 8 Send 1 Amount
+Map	CC 39		Drum 9 Send 1 Amount
+Map	CC 40		Drum 10 Send 1 Amount
+Map	CC 41		Drum 1 Send 2 Amount
+Map	CC 42		Drum 2 Send 2 Amount
+Map	CC 43		Drum 3 Send 2 Amount
+Map	CC 44		Drum 4 Send 2 Amount
+Map	CC 45		Drum 5 Send 2 Amount
+Map	CC 46		Drum 6 Send 2 Amount
+Map	CC 47		Drum 7 Send 2 Amount
+Map	CC 48		Drum 8 Send 2 Amount
+Map	CC 49		Drum 9 Send 2 Amount
+Map	CC 50		Drum 10 Send 2 Amount
+Map	CC 51		Drum 1 Pitch
+Map	CC 52		Drum 2 Pitch
+Map	CC 53		Drum 3 Pitch
+Map	CC 54		Drum 4 Pitch
+Map	CC 55		Drum 5 Pitch
+Map	CC 56		Drum 6 Pitch
+Map	CC 57		Drum 7 Pitch
+Map	CC 58		Drum 8 Pitch
+Map	CC 59		Drum 9 Pitch
+Map	CC 60		Drum 10 Pitch
+Map	CC 61		Drum 1 Tone
+Map	CC 62		Drum 2 Tone
+Map	CC 63		Drum 10 Tone
+Map	CC 65		Drum 6 Pitch Bend Amount
+Map	CC 66		Drum 7 Pitch Bend Amount
+Map	CC 67		Drum 1 Vel to Level
+Map	CC 68		Drum 2 Vel to Level
+Map	CC 69		Drum 3 Vel to Level
+Map	CC 70		Drum 4 Vel to Level
+Map	CC 71		Drum 5 Vel to Level
+Map	CC 72		Drum 6 Vel to Level
+Map	CC 73		Drum 7 Vel to Level
+Map	CC 74		Drum 8 Vel to Level
+Map	CC 75		Drum 9 Vel to Level
+Map	CC 76		Drum 10 Vel to Level
+Map	CC 77		Drum 1 Decay/Gate Mode
+Map	CC 78		Drum 2 Decay/Gate Mode
+Map	CC 79		Drum 3 Decay/Gate Mode
+Map	CC 80		Drum 4 Decay/Gate Mode
+Map	CC 81		Drum 5 Decay/Gate Mode
+Map	CC 82		Drum 6 Decay/Gate Mode
+Map	CC 83		Drum 7 Decay/Gate Mode
+Map	CC 84		Drum 8 Decay/Gate Mode
+Map	CC 85		Drum 9 Decay/Gate Mode
+Map	CC 86		Drum 10 Decay/Gate Mode
+Map	CC 87		Drum 3 Sample Start
+Map	CC 88		Drum 4 Sample Start
+Map	CC 89		Drum 5 Sample Start
+Map	CC 90		Drum 8 Sample Start
+Map	CC 91		Drum 9 Sample Start
+Map	CC 92		Pattern Enable
+Map	CC 94		Drum 6 Vel to Pitch Bend
+Map	CC 95		Drum 7 Vel to Pitch Bend
+Map	CC 102		Drum 6 Pitch Bend Rate
+Map	CC 103		Drum 7 Pitch Bend Rate
+Map	CC 104		Drum 1 Vel to Tone
+Map	CC 105		Drum 2 Vel to Tone
+Map	CC 106		Drum 10 Vel to Tone
+Map	CC 107		Drum 3 Vel to Sample Start
+Map	CC 108		Drum 4 Vel to Sample Start
+Map	CC 109		Drum 5 Vel to Sample Start
+Map	CC 110		Drum 8 Vel to Sample Start
+Map	CC 111		Drum 9 Vel to Sample Start
+
+
+Scope	Propellerheads	Kong Drum Designer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Master Level
+Map	CC 04		Bus FX P1
+Map	CC 05		Bus FX P2
+Map	CC 09		Master FX P1
+Map	CC 10		Master FX P2
+
+Map	CC 12		Drum 1 Level
+Map	CC 13		Drum 2 Level
+Map	CC 14		Drum 3 Level
+Map	CC 15		Drum 4 Level
+Map	CC 16		Drum 5 Level
+Map	CC 17		Drum 6 Level
+Map	CC 18		Drum 7 Level
+Map	CC 19		Drum 8 Level
+Map	CC 20		Drum 9 Level
+Map	CC 21		Drum 10 Level
+Map	CC 22		Drum 11 Level
+Map	CC 23		Drum 12 Level
+Map	CC 24		Drum 13 Level
+Map	CC 25		Drum 14 Level
+Map	CC 26		Drum 15 Level
+Map	CC 27		Drum 16 Level
+
+Map	CC 28		Drum 1 Decay Offset
+Map	CC 29		Drum 2 Decay Offset
+Map	CC 30		Drum 3 Decay Offset
+Map	CC 31		Drum 4 Decay Offset
+Map	CC 33		Drum 5 Decay Offset
+Map	CC 34		Drum 6 Decay Offset
+Map	CC 35		Drum 7 Decay Offset
+Map	CC 36		Drum 8 Decay Offset
+Map	CC 37		Drum 9 Decay Offset
+Map	CC 39		Drum 10 Decay Offset
+Map	CC 40		Drum 11 Decay Offset
+Map	CC 41		Drum 12 Decay Offset
+Map	CC 42		Drum 13 Decay Offset
+Map	CC 43		Drum 14 Decay Offset
+Map	CC 44		Drum 15 Decay Offset
+Map	CC 45		Drum 16 Decay Offset
+
+Map	CC 46		Drum 1 Bus FX Send
+Map	CC 47		Drum 2 Bus FX Send
+Map	CC 48		Drum 3 Bus FX Send
+Map	CC 49		Drum 4 Bus FX Send
+Map	CC 50		Drum 5 Bus FX Send
+Map	CC 51		Drum 6 Bus FX Send
+Map	CC 52		Drum 7 Bus FX Send
+Map	CC 53		Drum 8 Bus FX Send
+Map	CC 54		Drum 9 Bus FX Send
+Map	CC 55		Drum 10 Bus FX Send
+Map	CC 56		Drum 11 Bus FX Send
+Map	CC 57		Drum 12 Bus FX Send
+Map	CC 58		Drum 13 Bus FX Send
+Map	CC 59		Drum 14 Bus FX Send
+Map	CC 60		Drum 15 Bus FX Send
+Map	CC 61		Drum 16 Bus FX Send
+
+Map	CC 62		Drum 1 Pitch Offset
+Map	CC 63		Drum 2 Pitch Offset
+Map	CC 65		Drum 3 Pitch Offset
+Map	CC 66		Drum 4 Pitch Offset
+Map	CC 67		Drum 5 Pitch Offset
+Map	CC 68		Drum 6 Pitch Offset
+Map	CC 69		Drum 7 Pitch Offset
+Map	CC 70		Drum 8 Pitch Offset
+Map	CC 71		Drum 9 Pitch Offset
+Map	CC 72		Drum 10 Pitch Offset
+Map	CC 73		Drum 11 Pitch Offset
+Map	CC 74		Drum 12 Pitch Offset
+Map	CC 75		Drum 13 Pitch Offset
+Map	CC 76		Drum 14 Pitch Offset
+Map	CC 77		Drum 15 Pitch Offset
+Map	CC 78		Drum 16 Pitch Offset
+
+Map	CC 79		Drum 1 FX1 P1
+Map	CC 80		Drum 2 FX1 P1
+Map	CC 81		Drum 3 FX1 P1
+Map	CC 82		Drum 4 FX1 P1
+Map	CC 83		Drum 5 FX1 P1
+Map	CC 84		Drum 6 FX1 P1
+Map	CC 85		Drum 7 FX1 P1
+Map	CC 86		Drum 8 FX1 P1
+Map	CC 87		Drum 9 FX1 P1
+Map	CC 88		Drum 10 FX1 P1
+Map	CC 89		Drum 11 FX1 P1
+Map	CC 90		Drum 12 FX1 P1
+Map	CC 91		Drum 13 FX1 P1
+Map	CC 92		Drum 14 FX1 P1
+Map	CC 93		Drum 15 FX1 P1
+Map	CC 94		Drum 16 FX1 P1
+
+Map	CC 102		Drum 1 FX1 P2
+Map	CC 103		Drum 2 FX1 P2
+Map	CC 104		Drum 3 FX1 P2
+Map	CC 105		Drum 4 FX1 P2
+Map	CC 106		Drum 5 FX1 P2
+Map	CC 107		Drum 6 FX1 P2
+Map	CC 108		Drum 7 FX1 P2
+Map	CC 109		Drum 8 FX1 P2
+Map	CC 110		Drum 9 FX1 P2
+Map	CC 111		Drum 10 FX1 P2
+Map	CC 112		Drum 11 FX1 P2
+Map	CC 113		Drum 12 FX1 P2
+Map	CC 114		Drum 13 FX1 P2
+Map	CC 115		Drum 14 FX1 P2
+Map	CC 116		Drum 15 FX1 P2
+Map	CC 117		Drum 16 FX1 P2
+
+
+Scope	Propellerheads	RV7000 Advanced Reverb
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 12		Hi EQ
+Map	CC 13		HF Damp
+Map	CC 14		Decay
+Map	CC 15		Dry/Wet
+Map	CC 94		Gate On/Off
+Map	CC 95		EQ On/Off
+
+
+Scope	Propellerheads	Scream 4 Distortion
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Master Level
+Map	CC 09		Enabled
+Map	CC 12		Damage Type
+Map	CC 13		Damage Control
+Map	CC 14		Parameter 1
+Map	CC 15		Parameter 2
+Map	CC 16		Damage On/Off
+Map	CC 17		Cut On/Off
+Map	CC 18		Cut Lo
+Map	CC 19		Cut Mid
+Map	CC 20		Cut Hi
+Map	CC 70		Body On/Off
+Map	CC 71		Body Resonance
+Map	CC 74		Body Scale
+Map	CC 78		Body Auto
+Map	CC 79		Body Type
+
+
+Scope	Propellerheads	BV512 Digital Vocoder
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 10		Shift
+Map	CC 12		Band Count
+Map	CC 13		Vocoder/Equalizer
+Map	CC 14		Dry/Wet
+Map	CC 15		Band Level 1
+Map	CC 16		Band Level 2
+Map	CC 17		Band Level 3
+Map	CC 18		Band Level 4
+Map	CC 19		Band Level 5
+Map	CC 20		Band Level 6
+Map	CC 21		Band Level 7
+Map	CC 22		Band Level 8
+Map	CC 23		Band Level 9
+Map	CC 24		Band Level 10
+Map	CC 25		Band Level 11
+Map	CC 26		Band Level 12
+Map	CC 27		Band Level 13
+Map	CC 28		Band Level 14
+Map	CC 29		Band Level 15
+Map	CC 30		Band Level 16
+Map	CC 73		Decay
+Map	CC 74		Attack
+Map	CC 75		HF Emphasis
+Map	CC 102		Band Level 17
+Map	CC 103		Band Level 18
+Map	CC 104		Band Level 19
+Map	CC 105		Band Level 20
+Map	CC 106		Band Level 21
+Map	CC 107		Band Level 22
+Map	CC 108		Band Level 23
+Map	CC 109		Band Level 24
+Map	CC 110		Band Level 25
+Map	CC 111		Band Level 26
+Map	CC 112		Band Level 27
+Map	CC 113		Band Level 28
+Map	CC 114		Band Level 29
+Map	CC 115		Band Level 30
+Map	CC 116		Band Level 31
+Map	CC 117		Band Level 32
+
+
+Scope	Propellerheads	MClass Equalizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 12		Parametric 1 Gain
+Map	CC 13		Parametric 2 Gain
+Map	CC 14		Low Shelf Gain
+Map	CC 15		Hi Shelf Gain
+Map	CC 16		Low Cut Enable
+Map	CC 17		Low Shelf Enable
+Map	CC 18		Parametric 1 Enable
+Map	CC 19		Parametric 2 Enable
+Map	CC 20		Hi Shelf Enable
+Map	CC 71		Parametric 1 Q
+Map	CC 74		Parametric 1 Frequency
+Map	CC 78		Parametric 2 Q
+Map	CC 79		Parametric 2 Frequency
+Map	CC 80		Low Shelf Q
+Map	CC 81		Low Shelf Frequency
+Map	CC 82		Hi Shelf Q
+Map	CC 83		Hi Shelf Frequency
+
+
+Scope	Propellerheads	MClass Stereo Imager
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 08		Solo Mode
+Map	CC 09		Enabled
+Map	CC 12		Low Width
+Map	CC 13		High Width
+Map	CC 74		X-Over Frequency
+
+
+Scope	Propellerheads	MClass Compressor
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Output Gain
+Map	CC 08		Sidechain Solo
+Map	CC 09		Enabled
+Map	CC 12		Threshold
+Map	CC 13		Attack
+Map	CC 14		Release
+Map	CC 15		Adapt
+Map	CC 16		Ratio
+Map	CC 17		Soft Knee
+Map	CC 19		Input Gain
+
+
+Scope	Propellerheads	MClass Maximizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Output Gain
+Map	CC 09		Enabled
+Map	CC 12		Soft Clip Amount
+Map	CC 13		Attack Speed
+Map	CC 14		Release Speed
+Map	CC 15		Look Ahead Enable
+Map	CC 16		Limiter Enable
+Map	CC 17		Soft Clip Enable
+Map	CC 18		Output Level Meter Mode
+Map	CC 19		Input Gain
+
+
+Scope	Propellerheads	RV-7 Digital Reverb
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 03		Algorithm
+Map	CC 09		Enabled
+Map	CC 12		Size
+Map	CC 13		Damping
+Map	CC 14		Decay
+Map	CC 15		Dry/Wet
+
+
+Scope	Propellerheads	DDL-1 Digital Delay Line
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 10		Pan
+Map	CC 12		DelayTime (steps)
+Map	CC 13		Feedback
+Map	CC 14		Dry/Wet Balance
+Map	CC 15		DelayTime (ms)
+Map	CC 16		Step Length
+
+
+Scope	Propellerheads	D-11 Foldback Distortion
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 12		Amount
+Map	CC 13		Foldback
+
+
+Scope	Propellerheads	ECF-42 Envelope Controlled Filter
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 12		Mode
+Map	CC 13		Sustain
+Map	CC 14		Release
+Map	CC 15		Velocity
+Map	CC 16		Env Amount
+Map	CC 71		Resonance
+Map	CC 72		Decay
+Map	CC 73		Attack
+Map	CC 74		Frequency
+
+
+Scope	Propellerheads	CF-101 Chorus/Flanger
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 12		Delay
+Map	CC 13		Feedback
+Map	CC 14		Rate
+Map	CC 15		Modulation Amount
+
+
+Scope	Propellerheads	PH-90 Phaser
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 12		Split
+Map	CC 13		Feedback
+Map	CC 14		Rate
+Map	CC 15		Frequency Modulation
+Map	CC 16		Width
+Map	CC 30		LFO Sync Enable
+Map	CC 74		Frequency
+
+
+Scope	Propellerheads	UN-16 Unison
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 12		Detune
+Map	CC 13		Voice Count
+Map	CC 14		Dry/Wet
+
+
+Scope	Propellerheads	COMP-01 Compressor/Limiter
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 12		Threshold
+Map	CC 13		Attack
+Map	CC 14		Release
+Map	CC 16		Ratio
+
+
+Scope	Propellerheads	PEQ-2 Two Band Parametric EQ
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 12		Filter A Gain
+Map	CC 13		Filter B Gain
+Map	CC 14		Filter B On/Off
+Map	CC 71		Filter A Q
+Map	CC 74		Filter A Freq
+Map	CC 78		Filter B Q
+Map	CC 79		Filter B Freq
+
+
+Scope	Propellerheads	Matrix Pattern Sequencer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 03		Pattern Select
+Map	CC 09		Pattern Enable
+
+
+Scope	Propellerheads	RPG-8 Monophonic Arpeggiator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Arpeggiator Enable
+Map	CC 12		Hold
+Map	CC 13		Single Note Repeat
+Map	CC 14		Rate
+Map	CC 15		Gate Length
+Map	CC 16		Mode
+Map	CC 17		Octave
+Map	CC 18		Octave Shift
+Map	CC 19		Velocity/Manual
+Map	CC 20		Insert
+Map	CC 21		Sync
+Map	CC 22		Shuffle
+Map	CC 23		Pattern Enable
+Map	CC 24		Pattern Length Down
+Map	CC 25		Pattern Length Up
+
+
+Scope	Propellerheads	ReGroove Mixer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 08		A1 Groove Amount
+Map	CC 09		A2 Groove Amount
+Map	CC 10		A3 Groove Amount
+Map	CC 12		A4 Groove Amount
+Map	CC 13		A5 Groove Amount
+Map	CC 14		A6 Groove Amount
+Map	CC 15		A7 Groove Amount
+Map	CC 16		A8 Groove Amount
+Map	CC 17		B1 Groove Amount
+Map	CC 18		B2 Groove Amount
+Map	CC 19		B3 Groove Amount
+Map	CC 20		B4 Groove Amount
+Map	CC 21		B5 Groove Amount
+Map	CC 22		B6 Groove Amount
+Map	CC 23		B7 Groove Amount
+Map	CC 24		B8 Groove Amount
+Map	CC 25		C1 Groove Amount
+Map	CC 26		C2 Groove Amount
+Map	CC 27		C3 Groove Amount
+Map	CC 28		C4 Groove Amount
+Map	CC 29		C5 Groove Amount
+Map	CC 30		C6 Groove Amount
+Map	CC 31		C7 Groove Amount
+Map	CC 33		C8 Groove Amount
+Map	CC 34		D1 Groove Amount
+Map	CC 35		D2 Groove Amount
+Map	CC 36		D3 Groove Amount
+Map	CC 37		D4 Groove Amount
+Map	CC 39		D5 Groove Amount
+Map	CC 40		D6 Groove Amount
+Map	CC 41		D7 Groove Amount
+Map	CC 42		D8 Groove Amount
+Map	CC 43		A1 Shuffle
+Map	CC 44		A2 Shuffle
+Map	CC 45		A3 Shuffle
+Map	CC 46		A4 Shuffle
+Map	CC 47		A5 Shuffle
+Map	CC 48		A6 Shuffle
+Map	CC 49		A7 Shuffle
+Map	CC 50		A8 Shuffle
+Map	CC 51		B1 Shuffle
+Map	CC 52		B2 Shuffle
+Map	CC 53		B3 Shuffle
+Map	CC 54		B4 Shuffle
+Map	CC 55		B5 Shuffle
+Map	CC 56		B6 Shuffle
+Map	CC 57		B7 Shuffle
+Map	CC 58		B8 Shuffle
+Map	CC 59		C1 Shuffle
+Map	CC 60		C2 Shuffle
+Map	CC 61		C3 Shuffle
+Map	CC 62		C4 Shuffle
+Map	CC 63		C5 Shuffle
+Map	CC 65		C6 Shuffle
+Map	CC 66		C7 Shuffle
+Map	CC 67		C8 Shuffle
+Map	CC 68		D1 Shuffle
+Map	CC 69		D2 Shuffle
+Map	CC 70		D3 Shuffle
+Map	CC 71		D4 Shuffle
+Map	CC 72		D5 Shuffle
+Map	CC 73		D6 Shuffle
+Map	CC 74		D7 Shuffle
+Map	CC 75		D8 Shuffle
+Map	CC 76		A1 Slide
+Map	CC 77		A2 Slide
+Map	CC 78		A3 Slide
+Map	CC 79		A4 Slide
+Map	CC 80		A5 Slide
+Map	CC 81		A6 Slide
+Map	CC 82		A7 Slide
+Map	CC 83		A8 Slide
+Map	CC 84		B1 Slide
+Map	CC 85		B2 Slide
+Map	CC 86		B3 Slide
+Map	CC 87		B4 Slide
+Map	CC 88		B5 Slide
+Map	CC 89		B6 Slide
+Map	CC 90		B7 Slide
+Map	CC 91		B8 Slide
+Map	CC 92		C1 Slide
+Map	CC 93		C2 Slide
+Map	CC 94		C3 Slide
+Map	CC 95		C4 Slide
+Map	CC 102		C5 Slide
+Map	CC 103		C6 Slide
+Map	CC 104		C7 Slide
+Map	CC 105		C8 Slide
+Map	CC 106		D1 Slide
+Map	CC 107		D2 Slide
+Map	CC 108		D3 Slide
+Map	CC 109		D4 Slide
+Map	CC 110		D5 Slide
+Map	CC 111		D6 Slide
+Map	CC 112		D7 Slide
+Map	CC 113		D8 Slide
+
+
+Scope	Propellerheads	ID8 Instrument Device
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Volume
+Map	CC 71		Parameter 1
+Map	CC 72		Parameter 2
+
+
+Scope	Propellerheads	Line 6 Guitar Amp
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 13		Drive
+Map	CC 14		Bass
+Map	CC 15		Middle
+Map	CC 16		Treble
+Map	CC 17		Volume
+Map	CC 21		Presence
+Map	CC 22		Volume Pedal
+Map	CC 23		Wah Pedal
+
+
+Scope	Propellerheads	Line 6 Bass Amp
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 13		Drive
+Map	CC 14		Bass
+Map	CC 15		Lo Mid
+Map	CC 16		Hi Mid
+Map	CC 17		Volume
+Map	CC 21		Treble
+Map	CC 23		Comp Threshold
+
+
+Scope	Propellerheads	Neptune Pitch Adjuster
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 09		Enabled
+Map	CC 75		Low Freq Input
+Map	CC 76		Wide Vibrato
+Map	CC 77		Live Mode
+Map	CC 08		MIDI Destination
+Map	CC 14		Correction Speed
+Map	CC 15		Preserve Expression
+Map	CC 17		Semitones
+Map	CC 20		Formant Shift
+Map	CC 40		Vibrato Rate
+Map	CC 13		Scale Memory
+Map	CC 12		Pitch Adjust On/Off
+Map	CC 16		Transpose On/Off
+Map	CC 19		Formant On/Off
+Map	CC 07		Pitched Signal Level
+Map	CC 21		Voice Synth Level
+
+
+//<	20110628
+Scope	Propellerheads	Reason Master Section
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Master Level
+Map	CC 12		Threshold
+Map	CC 13		Attack
+Map	CC 14		Release
+Map	CC 16		Ratio
+Map	CC 18		Make-Up Gain
+//Map	CC ??		Channel 1 Level
+//Map	CC ??		Channel 2 Level
+//Map	CC ??		Channel 3 Level
+//Map	CC ??		Channel 4 Level
+//Map	CC ??		Channel 5 Level
+//Map	CC ??		Channel 6 Level
+//Map	CC ??		Channel 7 Level
+//Map	CC ??		Channel 8 Level
+Map	CC 47		FX1 Return Level
+Map	CC 48		FX2 Return Level
+Map	CC 49		FX3 Return Level
+Map	CC 50		FX4 Return Level
+Map	CC 51		FX5 Return Level
+Map	CC 52		FX6 Return Level
+Map	CC 53		FX7 Return Level
+Map	CC 54		FX8 Return Level
+//Map	CC ??		Channel 1 Pan
+//Map	CC ??		Channel 2 Pan
+//Map	CC ??		Channel 3 Pan
+//Map	CC ??		Channel 4 Pan
+//Map	CC ??		Channel 5 Pan
+//Map	CC ??		Channel 6 Pan
+//Map	CC ??		Channel 7 Pan
+//Map	CC ??		Channel 8 Pan
+Map	CC 71		Rotary 1
+Map	CC 72		Rotary 2
+Map	CC 73		Rotary 3
+Map	CC 74		Rotary 4
+
+
+Scope	Propellerheads	Record Master Section
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Master Level
+Map	CC 12		Threshold
+Map	CC 13		Attack
+Map	CC 14		Release
+Map	CC 16		Ratio
+Map	CC 18		Make-Up Gain
+//Map	CC ??		Channel 1 Level
+//Map	CC ??		Channel 2 Level
+//Map	CC ??		Channel 3 Level
+//Map	CC ??		Channel 4 Level
+//Map	CC ??		Channel 5 Level
+//Map	CC ??		Channel 6 Level
+//Map	CC ??		Channel 7 Level
+//Map	CC ??		Channel 8 Level
+Map	CC 47		FX1 Return Level
+Map	CC 48		FX2 Return Level
+Map	CC 49		FX3 Return Level
+Map	CC 50		FX4 Return Level
+Map	CC 51		FX5 Return Level
+Map	CC 52		FX6 Return Level
+Map	CC 53		FX7 Return Level
+Map	CC 54		FX8 Return Level
+//Map	CC ??		Channel 1 Pan
+//Map	CC ??		Channel 2 Pan
+//Map	CC ??		Channel 3 Pan
+//Map	CC ??		Channel 4 Pan
+//Map	CC ??		Channel 5 Pan
+//Map	CC ??		Channel 6 Pan
+//Map	CC ??		Channel 7 Pan
+//Map	CC ??		Channel 8 Pan
+Map	CC 71		Rotary 1
+Map	CC 72		Rotary 2
+Map	CC 73		Rotary 3
+Map	CC 74		Rotary 4
+
+
+//<	20110628
+Scope	Propellerheads	Reason Main Mixer Channel
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Level
+Map	CC 08		Width
+Map	CC 10		Pan
+Map	CC 15		FX1 Send Level
+Map	CC 18		FX2 Send Level
+Map	CC 21		FX3 Send Level
+Map	CC 24		FX4 Send Level
+Map	CC 27		FX5 Send Level
+Map	CC 30		FX6 Send Level
+Map	CC 40		FX7 Send Level
+Map	CC 43		FX8 Send Level
+Map	CC 47		C Threshold
+Map	CC 48		C Release
+Map	CC 49		C Ratio
+Map	CC 54		G Threshold
+Map	CC 55		G Hold
+Map	CC 56		G Release
+Map	CC 57		G Range
+Map	CC 71		Rotary 1
+Map	CC 72		Rotary 2
+Map	CC 73		Rotary 3
+Map	CC 74		Rotary 4
+Map	CC 82		HF Gain
+Map	CC 83		HF Frequency
+Map	CC 85		HMF Gain
+Map	CC 86		HMF Frequency
+Map	CC 88		LMF Gain
+Map	CC 89		LMF Frequency
+Map	CC 91		LF Gain
+Map	CC 92		LF Frequency
+Map	CC 103		LPF Frequency
+Map	CC 105		HPF Frequency
+Map	CC 107		Input Gain
+
+
+Scope	Propellerheads	Record Main Mixer Channel
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Level
+Map	CC 08		Width
+Map	CC 10		Pan
+Map	CC 15		FX1 Send Level
+Map	CC 18		FX2 Send Level
+Map	CC 21		FX3 Send Level
+Map	CC 24		FX4 Send Level
+Map	CC 27		FX5 Send Level
+Map	CC 30		FX6 Send Level
+Map	CC 40		FX7 Send Level
+Map	CC 43		FX8 Send Level
+Map	CC 47		C Threshold
+Map	CC 48		C Release
+Map	CC 49		C Ratio
+Map	CC 54		G Threshold
+Map	CC 55		G Hold
+Map	CC 56		G Release
+Map	CC 57		G Range
+Map	CC 71		Rotary 1
+Map	CC 72		Rotary 2
+Map	CC 73		Rotary 3
+Map	CC 74		Rotary 4
+Map	CC 82		HF Gain
+Map	CC 83		HF Frequency
+Map	CC 85		HMF Gain
+Map	CC 86		HMF Frequency
+Map	CC 88		LMF Gain
+Map	CC 89		LMF Frequency
+Map	CC 91		LF Gain
+Map	CC 92		LF Frequency
+Map	CC 103		LPF Frequency
+Map	CC 105		HPF Frequency
+Map	CC 107		Input Gain
+
+
+
+//<	20110319
+Scope	Propellerheads	Reason Document
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+// The following will only be available if no device has Master Keyboard Input
+// (e.g. MKI is set to the Transport Track)
+Map	CC 07		Click Level
+
+
+//<	20110628
+Scope	Propellerheads	Record Document
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+// The following will only be available if no device has Master Keyboard Input
+// (e.g. MKI is set to the Transport Track)
+Map	CC 07		Click Level
+
+
+
+//<	20110319
+Scope	Propellerheads	Reason Essentials Master Section
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Master Level
+Map	CC 12		Threshold
+Map	CC 13		Attack
+Map	CC 14		Release
+Map	CC 16		Ratio
+Map	CC 18		Make-Up Gain
+//Map	CC ??		Channel 1 Level
+//Map	CC ??		Channel 2 Level
+//Map	CC ??		Channel 3 Level
+//Map	CC ??		Channel 4 Level
+//Map	CC ??		Channel 5 Level
+//Map	CC ??		Channel 6 Level
+//Map	CC ??		Channel 7 Level
+//Map	CC ??		Channel 8 Level
+Map	CC 47		FX1 Return Level
+Map	CC 48		FX2 Return Level
+Map	CC 49		FX3 Return Level
+Map	CC 50		FX4 Return Level
+Map	CC 51		FX1 Pan
+Map	CC 52		FX2 Pan
+Map	CC 53		FX3 Pan
+Map	CC 54		FX4 Pan
+//Map	CC ??		Channel 1 Pan
+//Map	CC ??		Channel 2 Pan
+//Map	CC ??		Channel 3 Pan
+//Map	CC ??		Channel 4 Pan
+//Map	CC ??		Channel 5 Pan
+//Map	CC ??		Channel 6 Pan
+//Map	CC ??		Channel 7 Pan
+//Map	CC ??		Channel 8 Pan
+Map	CC 71		Rotary 1
+Map	CC 72		Rotary 2
+Map	CC 73		Rotary 3
+Map	CC 74		Rotary 4
+
+
+
+//<	20110319
+Scope	Propellerheads	Reason Essentials Main Mixer Channel
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 07		Level
+Map	CC 08		Width
+Map	CC 10		Pan
+Map	CC 15		FX1 Send Level
+Map	CC 18		FX2 Send Level
+Map	CC 21		FX3 Send Level
+Map	CC 24		FX4 Send Level
+Map	CC 71		Rotary 1
+Map	CC 72		Rotary 2
+Map	CC 73		Rotary 3
+Map	CC 74		Rotary 4
+Map	CC 82		HF Gain
+Map	CC 83		HF Frequency
+Map	CC 91		LF Gain
+Map	CC 92		LF Frequency
+Map	CC 107		Input Gain
+//<	20110328
+
+
+//<	20110628
+Scope	Propellerheads	Alligator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 45		Gate 1 Open
+Map	CC 47		Gate 2 Open
+Map	CC 49		Gate 3 Open
+Map	CC 39		Pattern Enable
+Map	CC 44		Gate 1 Trig
+Map	CC 46		Gate 2 Trig
+Map	CC 48		Gate 3 Trig
+Map	CC 43		Shuffle
+Map	CC 70		High Pass Filter On
+Map	CC 65		Band Pass Filter On
+Map	CC 75		Low Pass Filter On
+Map	CC 58		LFOSync
+Map	CC 91		DelaySync
+Map	CC 09		Enabled
+Map	CC 40		Pattern
+Map	CC 41		Resolution
+Map	CC 42		Shift
+Map	CC 56		LFO Freq
+Map	CC 57		LFO Waveform
+Map	CC 92		Delay Pan
+Map	CC 89		Delay Time
+Map	CC 90		Delay Feedback
+Map	CC 67		High Pass Frequency
+Map	CC 72		Band Pass Frequency
+Map	CC 77		Low Pass Frequency
+Map	CC 15		High Pass Volume
+Map	CC 13		Band Pass Volume
+Map	CC 17		Low Pass Volume
+Map	CC 07		Master Volume
+Map	CC 18		Ducking
+Map	CC 19		Dry Pan
+Map	CC 20		Dry Volume
+Map	CC 80		High Pass Drive Amount
+Map	CC 83		Band Pass Drive Amount
+Map	CC 86		Low Pass Drive Amount
+Map	CC 68		High Pass Resonance
+Map	CC 73		Band Pass Resonance
+Map	CC 78		Low Pass Resonance
+Map	CC 93		Phaser Rate
+Map	CC 94		Phaser Feedback
+Map	CC 81		High Pass Phaser Amount
+Map	CC 84		Band Pass Phaser Amount
+Map	CC 87		Low Pass Phaser Amount
+Map	CC 82		High Pass Delay Amount
+Map	CC 85		Band Pass Delay Amount
+Map	CC 88		Low Pass Delay Amount
+Map	CC 50		Amp Env Attack
+Map	CC 51		Amp Env Decay
+Map	CC 52		Amp Env Release
+Map	CC 53		Filter Env Attack
+Map	CC 54		Filter Env Decay
+Map	CC 55		Filter Env Release
+Map	CC 12		High Pass Pan
+Map	CC 14		Band Pass Pan
+Map	CC 16		Low Pass Pan
+Map	CC 66		High Pass LFO Amount
+Map	CC 71		Band Pass LFO Amount
+Map	CC 76		Low Pass LFO Amount
+Map	CC 69		High Pass Env Amount
+Map	CC 74		Band Pass Env Amount
+Map	CC 79		Low Pass Env Amount
+
+
+Scope	Propellerheads	Pulveriser
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 80		Routing
+Map	CC 78		Follower Trig
+Map	CC 30		Sync
+Map	CC 31		Tremor Spread
+Map	CC 09		Enabled
+Map	CC 12		Squash
+Map	CC 13		Dirt
+Map	CC 74		Filter Frequency
+Map	CC 71		Peak
+Map	CC 26		Tremor Rate
+Map	CC 79		Follower Threshold
+Map	CC 73		Follower Attack
+Map	CC 72		Follower Release
+Map	CC 07		Volume
+Map	CC 77		Filter Mode
+Map	CC 14		Release
+Map	CC 15		Tone
+Map	CC 28		Tremor Waveform
+Map	CC 29		Tremor Lag
+Map	CC 76		Tremor to Frequency
+Map	CC 27		Follower to Rate
+Map	CC 75		Follower to Frequency
+Map	CC 21		Tremor to Volume
+Map	CC 20		Blend
+
+
+Scope	Propellerheads	The Echo
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	CC 04		Trig
+Map	CC 15		Keep Pitch
+Map	CC 14		Sync
+Map	CC 17		Ping-Pong Mode
+Map	CC 20		Diffuse On
+Map	CC 25		Filter On
+Map	CC 09		Enabled
+Map	CC 01		Roll Enabled
+Map	CC 03		Input Mode
+Map	CC 12		Delay Time
+Map	CC 16		Right Ch Time Offset
+Map	CC 18		Ping-Pong Pan
+Map	CC 13		Feedback
+Map	CC 19		Right Ch Feedback Offset
+Map	CC 24		Drive Type
+Map	CC 23		Drive Amount
+Map	CC 39		Envelope
+Map	CC 40		Wobble
+Map	CC 26		Filter Frequency
+Map	CC 27		Filter Resonance
+Map	CC 21		Diffuse Spread
+Map	CC 22		Diffuse Amount
+Map	CC 41		LFO Rate
+Map	CC 42		LFO Amount
+Map	CC 08		Ducking
+Map	CC 07		Dry/Wet Balance
+//<	20110711
+
+
+
+Scope	Propellerhead Software	se.propellerheads.radicalpiano
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	CC 62		Symp Res Level
+Map	CC 30		Pedal Level
+Map	CC 51		Vel Response Curve
+Map	CC 25		Microphone and Instrument Blend
+Map	CC 09		Env Decay Curve
+Map	CC 07		Master Volume
+Map	CC 15		Ambience Level
+Map	CC 52		Env Release
+Map	CC 24		Character
+Map	CC 29		Key Up Level
+Map	CC 03		Ambience Type
+Map	CC 49		Vel Response High
+Map	CC 08		Stereo Width
+Map	CC 50		Vel Response Low
+Map	CC 19		Compression Amount
+Map	CC 23		Tune
+Map	CC 73		Env Attack
+Map	CC 61		Symp Res Release Time
+Map	CC 91		EQ Lo Gain
+Map	CC 88		EQ Mid Gain
+Map	CC 82		EQ Hi Gain
+Map	CC 28		Key Down Level
+Map	CC 80		EQ On/Off
+Map	CC 27		Tune Drift
+
+
+Scope	Propellerhead Software	se.propellerheads.externalmidiinstrument
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	CC 00		CC 0
+Map	CC 03		CC 3
+Map	CC 04		CC 4
+Map	CC 05		CC 5
+Map	CC 06		CC 6
+Map	CC 07		CC 7
+Map	CC 08		CC 8
+Map	CC 09		CC 9
+Map	CC 10		CC 10
+Map	CC 12		CC 12
+Map	CC 13		CC 13
+Map	CC 14		CC 14
+Map	CC 15		CC 15
+Map	CC 16		CC 16
+Map	CC 17		CC 17
+Map	CC 18		CC 18
+Map	CC 19		CC 19
+Map	CC 20		CC 20
+Map	CC 21		CC 21
+Map	CC 22		CC 22
+Map	CC 23		CC 23
+Map	CC 24		CC 24
+Map	CC 25		CC 25
+Map	CC 26		CC 26
+Map	CC 27		CC 27
+Map	CC 28		CC 28
+Map	CC 29		CC 29
+Map	CC 30		CC 30
+Map	CC 31		CC 31
+Map	CC 32		CC 32
+Map	CC 33		CC 33
+Map	CC 34		CC 34
+Map	CC 35		CC 35
+Map	CC 36		CC 36
+Map	CC 37		CC 37
+Map	CC 38		CC 38
+Map	CC 39		CC 39
+Map	CC 40		CC 40
+Map	CC 41		CC 41
+Map	CC 42		CC 42
+Map	CC 43		CC 43
+Map	CC 44		CC 44
+Map	CC 45		CC 45
+Map	CC 46		CC 46
+Map	CC 47		CC 47
+Map	CC 48		CC 48
+Map	CC 49		CC 49
+Map	CC 50		CC 50
+Map	CC 51		CC 51
+Map	CC 52		CC 52
+Map	CC 53		CC 53
+Map	CC 54		CC 54
+Map	CC 55		CC 55
+Map	CC 56		CC 56
+Map	CC 57		CC 57
+Map	CC 58		CC 58
+Map	CC 59		CC 59
+Map	CC 60		CC 60
+Map	CC 61		CC 61
+Map	CC 62		CC 62
+Map	CC 63		CC 63
+Map	CC 65		CC 65
+Map	CC 66		CC 66
+Map	CC 67		CC 67
+Map	CC 68		CC 68
+Map	CC 69		CC 69
+Map	CC 70		CC 70
+Map	CC 71		CC 71
+Map	CC 72		CC 72
+Map	CC 73		CC 73
+Map	CC 74		CC 74
+Map	CC 75		CC 75
+Map	CC 76		CC 76
+Map	CC 77		CC 77
+Map	CC 78		CC 78
+Map	CC 79		CC 79
+Map	CC 80		CC 80
+Map	CC 81		CC 81
+Map	CC 82		CC 82
+Map	CC 83		CC 83
+Map	CC 84		CC 84
+Map	CC 85		CC 85
+Map	CC 86		CC 86
+Map	CC 87		CC 87
+Map	CC 88		CC 88
+Map	CC 89		CC 89
+Map	CC 90		CC 90
+Map	CC 91		CC 91
+Map	CC 92		CC 92
+Map	CC 93		CC 93
+Map	CC 94		CC 94
+Map	CC 95		CC 95
+Map	CC 96		CC 96
+Map	CC 97		CC 97
+Map	CC 98		CC 98
+Map	CC 99		CC 99
+Map	CC 100		CC 100
+Map	CC 101		CC 101
+Map	CC 102		CC 102
+Map	CC 103		CC 103
+Map	CC 104		CC 104
+Map	CC 105		CC 105
+Map	CC 106		CC 106
+Map	CC 107		CC 107
+Map	CC 108		CC 108
+Map	CC 109		CC 109
+Map	CC 110		CC 110
+Map	CC 111		CC 111
+Map	CC 112		CC 112
+Map	CC 113		CC 113
+Map	CC 114		CC 114
+Map	CC 115		CC 115
+Map	CC 116		CC 116
+Map	CC 117		CC 117
+Map	CC 118		CC 118
+Map	CC 119		CC 119
+
